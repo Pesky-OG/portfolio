@@ -1,0 +1,29 @@
+/* About.css */
+.about {
+  padding: 60px;
+  text-align: center;
+  background-color: #0d1117;
+}
+
+.about h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.about p {
+  margin-bottom: 30px;
+  font-size: 18px;
+  color: #8b949e;
+}
+
+.about ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.about li {
+  font-size: 18px;
+}
